@@ -23,4 +23,4 @@ Also, data preprocessing is needed. We use python lib ```pickle``` to dump and l
 
 All the hyperparameters are provided in our code ```DistCare.ipynb```. You can run it directly.
 
-If you don't want to pretrain on PhysioNet, we've already provided pretrained parameters for PhysioNet (Source) Dataset. You can simply load them to model, and run the transfer learning experiment on target dataset (Tongji or Spain).
+If you don't want to pretrain on PhysioNet, we've already provided pretrained parameters for source (PhysioNet) dataset. You can simply load them to model, and run the transfer learning experiment on target dataset (Tongji or Spain).
