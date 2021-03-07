@@ -11,7 +11,7 @@ Thanks for your interest in our work!
 
 ## Data Preparation
 
-We do not provide the PhysioNet, Tongji Hospital, and Spain HM Hospital dataset itself. The introduction of these datasets can be found as follows:
+We do not provide the PhysioNet, Tongji Hospital, and Spain HM Hospital datasets themselves. The introduction of these datasets can be found as follows:
 
 - PhysioNet Challenge: http://physionet.org/content/challenge-2019/1.0.0/
 - Tongji Hospital COVID-19: https://www.nature.com/articles/s42256-020-0180-7
